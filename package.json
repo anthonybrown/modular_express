@@ -1,0 +1,17 @@
+{
+  "name": "ex-1",
+  "version": "0.0.1",
+  "description": "express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pixel67",
+  "license": "MIT",
+  "dependencies": {
+    "nib": "^1.0.2",
+    "stylus": "^0.42.2",
+    "jade": "^1.1.5",
+    "express": "^3.4.8"
+  }
+}
